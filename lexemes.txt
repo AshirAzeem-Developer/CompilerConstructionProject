@@ -1,0 +1,45 @@
+< Identifier,n >
+< Assignment,= >
+< Literal, 10 >
+< If,if >
+< LeftParenthesis,( >
+< Identifier,ele >
+< MFO,% >
+< Literal, 2 >
+< RelOp,== >
+< Literal, 0 >
+< RightParenthesis,) >
+< LeftCurly,{ >
+< Print,print >
+< LeftParenthesis,( >
+< Literal,"number is even and bigger than 5" >
+< RightParenthesis,) >
+< RightCurly,} >
+< For,for >
+< LeftParenthesis,( >
+< Init,init >
+< Identifier,x >
+< Assignment,= >
+< Literal, 1 >
+< SemiColon,; >
+< Identifier,x >
+< RelOp,< >
+< Literal, 5 >
+< SemiColon,; >
+< Identifier,x >
+< Assignment,= >
+< Identifier,x >
+< MSO,+ >
+< Literal,1 >
+< RightParenthesis,) >
+< LeftCurly,{ >
+< Identifier,q >
+< Assignment,= >
+< Identifier,p >
+< MFO,* >
+< Literal,654 >
+< Print,print >
+< LeftParenthesis,( >
+< Identifier,q >
+< RightParenthesis,) >
+< RightCurly,} >

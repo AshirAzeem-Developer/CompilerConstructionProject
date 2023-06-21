@@ -1,0 +1,8 @@
+n = 10
+if (ele % 2 == 0) {
+    print("number is even and bigger than 5")
+}
+for(init x = 1; x < 5; x=x+1){
+    q=p*654
+    print(q)
+}
